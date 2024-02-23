@@ -1,13 +1,18 @@
 <h1>AluraBooks</h1>
 
 <h2>📃 Sobre</h2>
-Este projeto foi desenvolvido durante o curso "JavaScript: métodos de array" da Alura, com o objetivo de aprofundar o conhecimento em conceitos como:
 
-    forEach: Percorra cada elemento do array e realize ações personalizadas.
-    Map: Transforme cada elemento do array em um novo array com base em uma função.
-    Filter: Crie um novo array com apenas os elementos que atendem a uma condição específica.
-    Sort: Ordene os elementos do array de acordo com um critério definido.
-    Reduce: Combine os elementos do array em um único valor.
+Este projeto é o resultado do curso "JavaScript: métodos de array" oferecido pela Alura. O principal propósito do desenvolvimento foi aprofundar o conhecimento em conceitos fundamentais, destacando-se:
+
+    forEach: Iteração personalizada sobre cada elemento do array, possibilitando a execução de ações específicas.
+
+    Map: Transformação de cada elemento do array, criando um novo array com base em uma função fornecida.
+
+    Filter: Criação de um novo array contendo apenas os elementos que atendem a uma condição específica.
+
+    Sort: Ordenação dos elementos do array conforme um critério definido.
+
+    Reduce: Combinação dos elementos do array em um único valor, proporcionando flexibilidade na manipulação dos dados.
 
 ## 🚀 Tecnologias
 
